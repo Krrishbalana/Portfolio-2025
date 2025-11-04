@@ -10,7 +10,7 @@ export const myProjects = [
       "Integrated Multer for optimized file handling and reduced RAM usage.",
       "Improved error handling and schema validation for unpredictable dataset structures.",
     ],
-    href: "",
+    href: "https://insight-flow-pearl.vercel.app/",
     logo: "",
     image: "/assets/projects/InsighFow.jpg",
     tags: [
