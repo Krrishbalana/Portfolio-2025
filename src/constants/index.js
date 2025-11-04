@@ -173,27 +173,26 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "B.Tech",
+    job: "Bachelor of Engineering in Computer Science",
+    date: "2021-2025",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Pursuing a Bachelor of Engineering in Computer Science at Chandigarh University with a focus on full-stack web development and software engineering.",
+      "Gained strong foundation in Data Structures & Algorithms (C++), Database Management Systems (SQL), and Object-Oriented Programming.",
+      "Developed multiple full-stack projects including an AI ChatBot and a REST API-based Video Hosting Platform using the MERN stack.",
+      "Acquired hands-on experience in frontend technologies like React.js and Tailwind CSS, and backend tools such as Node.js, Express.js, and MongoDB.",
+      "Completed certifications in Software Engineering (Accenture Virtual Experience), MERN Full Stack Development (30DaysCoding), and SQL (UC Davis - Coursera).",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Senior Secondary Education",
+    job: "Class 12th – Non-Medical (Physics, Chemistry, Mathematics, Computer Science)",
+    date: "2020-2021",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Completed Class 12th with a strong focus on analytical and problem-solving subjects including Physics, Chemistry, Mathematics, and Computer Science.",
+      "Developed foundational programming knowledge through C++ and logical reasoning exercises.",
+      "Actively participated in school-level science and coding competitions, fostering teamwork and curiosity for technology.",
+      "Built early interest in software development and computer systems through project-based learning and practical assignments.",
     ],
   },
   {
